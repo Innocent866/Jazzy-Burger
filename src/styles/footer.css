@@ -1,0 +1,13 @@
+.follow{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+@media screen and (min-width:600px) {
+.follow{
+    display: flex;
+    justify-content: left;
+    text-align: left;
+}
+}
